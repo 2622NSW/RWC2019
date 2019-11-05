@@ -1,6 +1,5 @@
 # This explains size renaming
 # It uses labs(size="") demonstrated in p1
-# p2 has labs(colour ="")
 setwd("~/Documents")
 library(tidyverse)
 library(ggrepel)
